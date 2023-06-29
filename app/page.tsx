@@ -223,15 +223,15 @@ export default function Chat() {
             Vercel AI SDK
           </a>
           .{" "}
-          <a
+          {/* <a
             href="https://github.com/steven-tey/chathn"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
           >
             View the repo
-          </a>{" "}
-          or{" "}
+          </a>{" "} */}
+          {/* or{" "}
           <a
             href="https://vercel.com/templates/next.js/chathn"
             target="_blank"
@@ -239,7 +239,7 @@ export default function Chat() {
             className="transition-colors hover:text-black"
           >
             deploy your own
-          </a>
+          </a> */}
           .
         </p>
       </div>
